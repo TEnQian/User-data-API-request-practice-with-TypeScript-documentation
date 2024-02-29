@@ -1,4 +1,4 @@
-# User file data with API request practice using TypeScript and Express Js (Documentation Practice)
+# Handle user data from file with API request practice using TypeScript and Express Js (Documentation Practice)
 Practice of TypeScript and Express Js to handle api request
 
 # Get user with user id
